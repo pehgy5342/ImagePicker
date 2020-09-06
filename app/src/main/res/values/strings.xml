@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImagePicker</string>
+    <string name="camera">拍照</string>
+    <string name="read">讀取</string>
+</resources>
